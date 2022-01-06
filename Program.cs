@@ -10,7 +10,7 @@ using RestResponse = RestSharp.RestResponse;
 
 namespace ClientApi
 {
-    class Program //hello
+    class Program 
     {
         static void Main(string[] args)
         {
