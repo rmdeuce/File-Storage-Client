@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\rustProject\\ClientApi\\ClientApi.csproj": {}
+    "E:\\code\\.NET\\ClientApi\\ClientApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\rustProject\\ClientApi\\ClientApi.csproj": {
+    "E:\\code\\.NET\\ClientApi\\ClientApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\rustProject\\ClientApi\\ClientApi.csproj",
+        "projectUniqueName": "E:\\code\\.NET\\ClientApi\\ClientApi.csproj",
         "projectName": "ClientApi",
-        "projectPath": "C:\\Users\\Admin\\Documents\\rustProject\\ClientApi\\ClientApi.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\rustProject\\ClientApi\\obj\\",
+        "projectPath": "E:\\code\\.NET\\ClientApi\\ClientApi.csproj",
+        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\.NET\\ClientApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
